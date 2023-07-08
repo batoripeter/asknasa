@@ -1,0 +1,16 @@
+{
+  "name": "ask-nasa-javascript-batoripeter",
+  "version": "1.0.0",
+  "description": "No starter code is provided. Start from scratch!",
+  "main": "index.js",
+  "scripts": {
+     "build": "tsc",
+ "start": "node out/index.js"
+   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
